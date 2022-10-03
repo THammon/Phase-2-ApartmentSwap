@@ -1,0 +1,59 @@
+{
+    "listings": [
+        {
+            "id": 1,
+            "isActive": "true",
+            "location": "Springfield, Virginia",
+            "price" : 100,
+            "availability": "11/01",
+            "email": "george@gmail.com",
+            "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mark-taylor.com%2F&psig=AOvVaw3LPiIyR_Y_bDmNwzN6wX04&ust=1664897509209000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDyveGwxPoCFQAAAAAdAAAAABAF"
+        },
+        {
+            "id": 2,
+            "isActive": "true",
+            "location": "Little Rock, Arkansas",
+            "price" : 150,
+            "availability": "10/04",
+            "email": "bill.nye@gmail.com",
+            "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.irvinecompanyapartments.com%2F&psig=AOvVaw3LPiIyR_Y_bDmNwzN6wX04&ust=1664897509209000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDyveGwxPoCFQAAAAAdAAAAABAK"
+        },
+        {
+            "id": 3,
+            "isActive": "true",
+            "location": "Los Angeles, California",
+            "price" : 170,
+            "availability": "10/11",
+            "email": "ShreeLivesHere@gmail.com",
+            "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Famazingarchitecture.com%2Fvisualization%2Fthe-loft-apartment-by-jeffrey-tanate&psig=AOvVaw3LPiIyR_Y_bDmNwzN6wX04&ust=1664897509209000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDyveGwxPoCFQAAAAAdAAAAABAQ"
+        },
+        {
+            "id": 4,
+            "isActive": "true",
+            "location": "Dublin, Ireland",
+            "price" : 200,
+            "availability": "10/18",
+            "email": "CodingIsLit@gmail.com",
+            "thumbnail": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FT2qwgDDVQDA%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DT2qwgDDVQDA&tbnid=VXn9ON2xJbpRSM&vet=12ahUKEwi8_KXlscT6AhUEnWoFHTW5Ak8QMygHegUIARDlAQ..i&docid=4fd721OlzRAFmM&w=1280&h=720&q=ireland%20apartments&ved=2ahUKEwi8_KXlscT6AhUEnWoFHTW5Ak8QMygHegUIARDlAQ"
+        },
+        {
+            "id": 5,
+            "isActive": "true",
+            "location": "Dallas, Texas",
+            "price" : 300,
+            "availability": "10/25",
+            "email": "WhoseJson@gmail.com",
+            "thumbnail": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.home-designing.com%2F2014%2F09%2F23-open-concept-apartment-interiors-for-inspiration&psig=AOvVaw3LPiIyR_Y_bDmNwzN6wX04&ust=1664897509209000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDyveGwxPoCFQAAAAAdAAAAABAY"
+        },
+        {
+            "id": 6,
+            "isActive": "true",
+            "location": "Miami, Florida",
+            "price" : 500,
+            "availability": "12/25",
+            "email": "MyNameIsJeff@gmail.com",
+            "thumbnail": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fg5-assets-cld-res.cloudinary.com%2Fimage%2Fupload%2Fq_auto%2Cf_auto%2Cc_fill%2Cg_center%2Ch_1000%2Cw_2000%2Fv1620250875%2Fg5%2Fg5-c-5lzenrews-olympus-property-management%2Fg5-cl-1le1kfli5t-olympus-property-management-destin-fl%2Fuploads%2Fvintage-c2dg-0712-finals_xh56q9.jpg&imgrefurl=https%3A%2F%2Fwww.olympusproperty.com%2Fapartments%2Ffl%2Fdestin%2Folympus-emerald-coast%2F&tbnid=ylKx36jugrVQ1M&vet=10CFoQMyiRAWoXChMIiPSG0LHE-gIVAAAAAB0AAAAAEAI..i&docid=xa2PiPPQo6IbVM&w=2000&h=1000&q=florida%20apartments&ved=0CFoQMyiRAWoXChMIiPSG0LHE-gIVAAAAAB0AAAAAEAI"
+        }
+       
+    ]
+}
